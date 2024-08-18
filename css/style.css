@@ -1,0 +1,25 @@
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: 600;
+}
+.navbar-brand img {
+    width: 50px;
+}
+.bg-warning {
+    background-color:#f4df08!important;
+}
+#women {background-color: #eaeaea;}
+#btn{
+    color: #666666;
+    background-color: transparent;
+    border: 2px solid #666666;
+}
+.woman:hover {
+    scale: 1.1;
+    transition: all 0.5s; }
+ #btn:hover {
+        background-color: black ;
+        color: aliceblue;
+        transition:  all 0s;
+        cursor: pointer;
+}
