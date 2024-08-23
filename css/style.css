@@ -6,7 +6,7 @@
     width: 50px;
 }
 .bg-warning {
-    background-color:#f4df08!important;
+    background-color:#f4df08  !important;
 }
 #women {background-color: #eaeaea;}
 .collectionBtn {
@@ -60,8 +60,12 @@
     left: 0     !important;
   
   }
-  h2{
+  /* h2{
     font-border: 1px solid black;
     -webkit-text-stroke-width: .6px;
             -webkit-text-stroke-color: black;
-  }
+  } */
+.changeCard {
+    background-color: black;
+    color: white;
+}
